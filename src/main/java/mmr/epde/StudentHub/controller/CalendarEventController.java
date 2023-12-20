@@ -2,9 +2,7 @@ package mmr.epde.StudentHub.controller;
 
 import lombok.RequiredArgsConstructor;
 import mmr.epde.StudentHub.model.CalendarEvent;
-import mmr.epde.StudentHub.model.Course;
 import mmr.epde.StudentHub.repository.CalendarEventRepository;
-import mmr.epde.StudentHub.repository.CourseRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
